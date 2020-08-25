@@ -71,23 +71,20 @@ package main
 import "fmt"
 
 var src = `func main() {
-	fmt.Println("package main")
-	fmt.Println()
-	fmt.Println("import \"fmt\"")
-	fmt.Println()
-	fmt.Printf("var src = %s%s%s\n", string(96), src, string(96))
+	fmt.Printf("package main\n\n")
+	fmt.Printf("import \"fmt\"\n\n")
+	fmt.Printf("var src = %s%s%s\n\n", string(96), src, string(96))
 	fmt.Println(src)
 }
 `
 
 func main() {
-	fmt.Println("package main")
-	fmt.Println()
-	fmt.Println("import \"fmt\"")
-	fmt.Println()
-	fmt.Printf("var src = %s%s%s\n", string(96), src, string(96))
+	fmt.Printf("package main\n\n")
+	fmt.Printf("import \"fmt\"\n\n")
+	fmt.Printf("var src = %s%s%s\n\n", string(96), src, string(96))
 	fmt.Println(src)
 }
+
 ```
 
 Finally, a message to my former self when I see my old code:
