@@ -1,6 +1,6 @@
 ## 🌈 H3ll0 W0rld 👋
 
-I'm a backend software engineer passionate about Go, serverless, cybersecurity, algorithms, compilers, musicals, hiking, [Factorio](factorio.com), [XKCD](xkcd.com), [the gay agenda](https://www.sfgmc.org/), lists, and Oxford commas. I've also worked with Python, Java, C#, machine learning, pianos, and trumpets 🎺
+I'm a backend software engineer passionate about Go, serverless, cybersecurity, algorithms, compilers, musicals, hiking, [Factorio](https://factorio.com), [XKCD](https://xkcd.com), [the gay agenda](https://www.sfgmc.org/), lists, and Oxford commas. I've also worked with Python, Java, C#, machine learning, pianos, and trumpets 🎺
 
 If you want to get ahold of me, [LinkedIn](https://www.linkedin.com/in/austinbyers/) works well.
 
